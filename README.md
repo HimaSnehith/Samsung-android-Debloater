@@ -3,6 +3,8 @@ I always double check what you are removing, I am not responsible for anything t
 
 
 Debloat Samsung Android Phones with Android Debug Bridge (ADB)
+
+
 This repository contains a list of Android Debug Bridge (ADB) commands to aggressively disable apps/bloatware from Samsung Android devices that don't normally display an option to remove them.
 Running all commands listed in commands.txt will disable almost all Samsung apps. This includes the Galaxy App Store, Samsung Themes, Samsung Dex, Samsung Bixby, Facebook, and more. The end result will be a minimalist Samsung phone. These commands will not disrupt Samsung Knox or the Google Play Store. Use at your own risk and read over all commands to make sure you don't take out something you need. While these commands cannot harm your device, there may be situations where your phone gets into a crash-loop and the easiest fix is to boot the device into "Recovery Mode" and perform a factory reset. Research the procedure to boot into recovery mode for your Samsung phone, it can differ between models.
 
