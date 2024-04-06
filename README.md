@@ -1,6 +1,10 @@
 ***Disclaimer***
 I always double check what you are removing, I am not responsible for anything that happens to your mobile :)
 
+The main purpose of this prrocess is to boost your mobile's performance and outperform the stock capabilities,
+personally i have check the packages where you can find in the 'moredeeppackages' which i have personally tested dont do anything if you dont know about it.
+
+I personally tested it on my secondary mobile SM-146B(Samsung M14 5G) Which claimed around 560's and 1500's in single core and multicore respectively, After debloated the scrap of of oneui It crossed my expectations where the scores boosted to 1100 and 2200 respectively.
 
 Debloat Samsung Android Phones with Android Debug Bridge (ADB)
 
