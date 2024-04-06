@@ -10,6 +10,7 @@ Running all commands listed in commands.txt will disable almost all Samsung apps
 Instructions to install the required software:(For advanced or Nerd people)
 And (noobs scroll down where everything is spoon feeded....)
 The following instructions assumes you are familiar with using a command-line interface. Further reading on ADB can be found here: https://developer.android.com/studio/command-line/adb#Enabling.
+tool for removing bloatware, You can find it here https://github.com/0x192/universal-android-debloater
 
 **(Recommended for stability) Backup, update, and factory reset your phone.**
 1. On your phone, enable Android's "Developer Options"
@@ -27,8 +28,9 @@ Once in the device's shell, copy and paste all desired commands from safetoremov
 
 The tool required to unistall these packages is **universal android deloater**
 You can find it here https://github.com/0x192/universal-android-debloater
+
 where only 2 files in the bottom are required to download.(uad_gui-windows and uad_gui-windows-opengui)
-you can run anyofthese one is the spare os the other.
+you can run anyofthese one is the spare of the other.
 
 Instructions to install the required software:(For Noobs or beginners):
 I'll provide you a folder named 'bloatware rem' in the main brach section where you just need to dowwnload and run the abouve commands :)
