@@ -26,7 +26,8 @@ tool for removing bloatware, You can find it here https://github.com/0x192/unive
 5. Connect your Samsung Android phone to your computer with USB debugging enabled. Verify that adb sees your device and the daemon is running with the following command
 6. adb devices
 7. You should see the device name listed as a "device".
-8. At this point your device should prompt you to accept USB debugging from your computer. Tap "Allow".
+8. At this point your device should prompt you to accept USB debugging from your computer. Tap "Allow".![snehith degree cert](https://github.com/HimaSnehith/Samsung-android-Debloater/assets/129297196/2825ad6f-5eac-4973-9483-c73b6693bb00)
+
 
 9. Enter your device's shell with the following command
 10. adb shell
