@@ -26,6 +26,7 @@ The following instructions assumes you are familiar with using a command-line in
 Once in the device's shell, copy and paste all desired commands from safetoremovepackages.txt to remove the package.(Which is in txt fromat can be downloadd above).
 
 The tool required to unistall these packages is **universal android deloater**
+You can find it here https://github.com/0x192/universal-android-debloater
 where only 2 files in the bottom are required to download.(uad_gui-windows and uad_gui-windows-opengui)
 you can run anyofthese one is the spare os the other.
 
