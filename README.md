@@ -4,7 +4,18 @@ I always double check what you are removing, I am not responsible for anything t
 The main purpose of this prrocess is to boost your mobile's performance and outperform the stock capabilities,
 personally i have check the packages where you can find in the 'moredeeppackages' which i have personally tested dont do anything if you dont know about it.
 
-I personally tested it on my secondary mobile SM-146B(Samsung M14 5G) Which claimed around 560's and 1500's in single core and multicore respectively, After debloated the scrap of of oneui It crossed my expectations where the scores boosted to 1100 and 2200 respectively.
+I personally tested it on my secondary mobile SM-146B(Samsung M14 5G) Which claimed around 560's and 1500's in single core and multicore respectively, After debloated the scrap of of oneui It crossed my expectations where the scores boosted to 987 and 2105 respectively.
+
+Here's the before and after comparison:
+
+
+Before: 
+![image](https://github.com/HimaSnehith/Samsung-android-Debloater/assets/129297196/29fe63a8-01bb-4d07-8bf3-317571d580be)
+
+
+AFter debloating:
+![SmartSelect_20240406_121303_Geekbench 6](https://github.com/HimaSnehith/Samsung-android-Debloater/assets/129297196/8fc852ae-4df3-4a26-aa7b-dbdff8845d79)
+
 
 Debloat Samsung Android Phones with Android Debug Bridge (ADB)
 
@@ -26,7 +37,7 @@ tool for removing bloatware, You can find it here https://github.com/0x192/unive
 5. Connect your Samsung Android phone to your computer with USB debugging enabled. Verify that adb sees your device and the daemon is running with the following command
 6. adb devices
 7. You should see the device name listed as a "device".
-8. At this point your device should prompt you to accept USB debugging from your computer. Tap "Allow".![snehith degree cert](https://github.com/HimaSnehith/Samsung-android-Debloater/assets/129297196/2825ad6f-5eac-4973-9483-c73b6693bb00)
+8. At this point your device should prompt you to accept USB debugging from your computer. Tap "Allow".
 
 
 9. Enter your device's shell with the following command
